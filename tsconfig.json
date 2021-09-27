@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "allowJs": true,
+    // "checkJs": true,                       
+    "jsx": "preserve",
+    "sourceMap": true,
+    "outDir": "./dist/",
+  }
+}
